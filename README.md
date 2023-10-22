@@ -5,13 +5,15 @@
   Hi, there.</br>
   I'm a junior AI researcher.</br>
   I'm studying Computer Vision fields such as 3D Human Pose Estimation and Human Parsing.</br>
-  ⭐ I wanna contribute to the use of AI technologies as tools in many different industries! ⭐
 </p>
+ 
+ ***`⭐ I wanna contribute to the use of AI technologies as tools in many different industries! ⭐`***
 
 ### 📌 Favorite quotes
-> ***Carpe Diem***</br>
+> ***Carpe Diem.***</br>
 
-> ***청춘은 들고양이처럼 재빨리 지나가고 그 그림자는 오래도록 그늘을 드리운다.***
+> ***청춘은 들고양이처럼 재빨리 지나가고 그 그림자는 오래도록 영혼에 그늘을 드리운다.</br>***
+> ***(Youth passes quickly like a wild cat and its shadow casts shade on the soul for a long time.)***
 
 ### 🔨 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
