@@ -4,7 +4,7 @@
 <p>
   Hi, there.</br>
   I'm a junior AI researcher.</br>
-  I'm studying Computer Vision fields such as 3D Human Pose Estimation and Human Parsing.</br>
+  I'm studying Computer Vision fields such as 3D Generative Models, 3D Reconstruction, 3D Human Pose Estimation and Human Parsing.</br>
 </p>
  
  ***`⭐ I wanna contribute to the use of AI technologies as tools in many different industries! ⭐`***
