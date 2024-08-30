@@ -4,7 +4,7 @@
 <p>
   Hi, there.</br>
   I'm a MS student in Robot Control Intelligence Laboratory at Kyung Hee University, advised by Prof. Sanghyun Kim.</br>
-  My research interests lie in human robot interaction and Multimodal AI.</br>
+  My research interests lie in Human Robot Interaction and Multimodal AI.</br>
 </p>
 
 ### 📌 Favorite quotes
