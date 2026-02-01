@@ -14,6 +14,7 @@
 > ***(Youth passes quickly like a wild cat and its shadow casts shade on the soul for a long time.)***
 
 ### 🔨 Skills
+![ROS](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   
